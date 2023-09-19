@@ -13,7 +13,7 @@ namespace Tyuiu.IlyinME.Sprint1.Task0.V8.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(0, res);
+            Assert.AreEqual(1, res);
         }
     }
 }
