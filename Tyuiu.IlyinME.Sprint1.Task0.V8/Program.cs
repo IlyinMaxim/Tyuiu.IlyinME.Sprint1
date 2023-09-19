@@ -30,7 +30,7 @@ namespace Tyuiu.IlyinME.Sprint1.Task0.V8
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* 15 / 2 / 4                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАu:                                                              *");
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(ds.Calculate());

@@ -12,7 +12,7 @@ namespace Tyuiu.IlyinME.Sprint1.Task0.V8.Lib
     {
         public double Calculate()
         {
-            return 15 / 2 / 4;
+            return 15 / 2 / 2;
         }
     }
 }
