@@ -12,7 +12,7 @@ namespace Tyuiu.IlyinME.Sprint1.Task5.V5.Lib
     {
         public int Calculate(double x)
         {
-            int d = (int)((x - Math.Floor(x)) * 10);
+            int d = (int)((Math.Abs(x) - Math.Floor(Math.Abs(x))) * 10);
             return d; 
         }
     }
